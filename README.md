@@ -63,6 +63,12 @@ PlantDetector/
     └── model.safetensors
 ```
 ---
+
+## Projeme Ait Bir Görsel
+<img width="1164" height="888" alt="Ekran görüntüsü 2025-07-22 171025" src="https://github.com/user-attachments/assets/3509e27f-56d8-4ad6-8734-5ab8f4d0ba9f" />
+
+---
+
 ## 🤝 Katkıda Bulun
 Pull request'lere, issue açmaya her zaman açığım!
 Projeyi forklayabilir, yeni sınıflar ekleyebilir veya mobil versiyon geliştirebilirsin.
@@ -71,3 +77,6 @@ Projeyi forklayabilir, yeni sınıflar ekleyebilir veya mobil versiyon geliştir
 Herhangi bir önerin veya sorunun varsa issue açmaktan çekinme!
 💌 [zyardimci05@gmail.com]
 GitHub: @zeynepyardimci
+---
+
+
