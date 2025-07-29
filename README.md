@@ -1,6 +1,6 @@
 # 🌿 Plant Detector
 
-Yapay zeka destekli **Plant Detector**, bitki yapraklarındaki hastalıkları ve besin eksikliklerini otomatik olarak teşhis eden bir görüntü sınıflandırma sistemidir. Hugging Face'in **ConvNeXt** modeli iyileştirilip kullanılarak geliştirilmiştir. Sistem, yapraktan alınan görsel verileri analiz ederek **9 farklı hastalık ve eksiklik türünü** yüksek doğrulukla sınıflandırabilir.
+Staj zamanı geliştirdiğim yapay zeka destekli **Plant Detector** adlı projem,  bitki yapraklarındaki hastalıkları ve besin eksikliklerini otomatik olarak teşhis eden bir görüntü sınıflandırma sistemidir. Hugging Face'in **ConvNeXt** modelini iyileştirilip kullanarak geliştirdim. Sistem, yapraktan alınan görsel verileri analiz ederek **9 farklı hastalık ve eksiklik türünü** yüksek doğrulukla sınıflandırabilir.
 
 ---
 
